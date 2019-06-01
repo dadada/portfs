@@ -5,3 +5,4 @@ authors = ["Tim Schubert <mail@timschubert.net>"]
 edition = "2018"
 
 [dependencies]
+tokio = "0.1"
